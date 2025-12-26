@@ -3599,3 +3599,288 @@ Setting constraint violation (0x8007000d) for /ProvisioningCommands/PrimaryConte
 11/18/2025 7:18:05 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-languagepackmanagement#languagepackinstall
 11/18/2025 7:18:07 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-languagepackmanagement#languagepackinstall
 11/18/2025 7:18:09 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-languagepackmanagement#systempreferreduilanguage
+12/24/2025 10:36:02 AM Info Project 'configProject' created successfully and added to workspace
+12/24/2025 10:36:15 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-sharedpc#policycustomization
+12/24/2025 10:36:31 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:36:39 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:37:04 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:38:27 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:38:30 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:38:46 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:39:02 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:40:07 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/24/2025 10:44:14 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+12/24/2025 10:44:44 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser
+12/24/2025 10:45:01 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands
+12/24/2025 10:45:15 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:19 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:24 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:26 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\softwareremoval.bat. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\softwareremoval.bat'.
+12/24/2025 10:45:26 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:28 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:52 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:45:54 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Win11Debloat.bat. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Win11Debloat.bat'.
+12/24/2025 10:45:54 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:13 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Win11Debloat.cab. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Win11Debloat.cab'.
+12/24/2025 10:46:13 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:31 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:33 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\ZoomInstallerFull.msi. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\ZoomInstallerFull.msi'.
+12/24/2025 10:46:33 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:49 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\teams.bat. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\teams.bat'.
+12/24/2025 10:46:49 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:51 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:46:53 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:08 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:24 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\teams.cab. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\teams.cab'.
+12/24/2025 10:48:24 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:41 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:43 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\techconnectkc-remotesupport.msi. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\techconnectkc-remotesupport.msi'.
+12/24/2025 10:48:43 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:44 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:48:51 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:49:05 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:49:08 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\insight-agent-windows-3_42_0.msi. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\insight-agent-windows-3_42_0.msi'.
+12/24/2025 10:49:08 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:49:27 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:49:29 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\hpremoval.bat. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\hpremoval.bat'.
+12/24/2025 10:49:29 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:49:53 AM Warning Error hashing source path C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Remove-HPbloatware.ps1. Could not find a part of the path 'C:\Users\kbowman\Documents\Windows Imaging and Configuration Designer (WICD)\prod\install\packages\Remove-HPbloatware.ps1'.
+12/24/2025 10:49:53 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/24/2025 10:54:54 AM Info Start Provisioning package Build for Project: configProject
+12/24/2025 10:55:34 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-169_5144.10_843920274.1'
+12/24/2025 10:55:34 AM Info Adding runtime settings to Provisioning Package
+12/24/2025 10:55:34 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\1__Accounts_Users_TCKC-Admin.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\2__Browser_FavoriteBarItems_aSupportPortal.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\3__Browser_FavoriteBarItems_bOutlookEmail.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\4__Browser_FavoriteBarItems_cOffice.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\5__Browser_FavoriteBarItems_dKansas Works.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\6__Browser_FavoriteBarItems_eDLX Home.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\7__DeviceFormFactor_DeviceForm.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\8__LanguagePackManagement_LanguagePackInstall_en-US.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\9__LanguagePackManagement_LanguagePackInstall_es-US.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\10__LanguagePackManagement_SystemPreferredUILanguage.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\11__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\12__Policies_Browser_ConfigureFavoritesBar.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\13__Policies_Update_AllowAutoUpdate.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\14__Policies_Experience_DoNotShowFeedbackNotifications.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\15__Policies_Power_StandbyTimeoutPluggedIn.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\16__Policies_Power_UnattendedSleepTimeoutPluggedIn.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\17__Policies_Privacy_DisableAdvertisingId.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\18__Policies_TimeLanguageSettings_ConfigureTimeZone.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\19__CleanPC.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\20__DevDetail_DNSComputerName.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\21__OOBE_Desktop_HideOobe.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\22__ProvisioningCommands_PrimaryContext_Command_0_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\23__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\24__ProvisioningCommands_PrimaryContext_Command_0_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\25__ProvisioningCommands_PrimaryContext_Command_0_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\26__ProvisioningCommands_PrimaryContext_Command_1_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\27__ProvisioningCommands_PrimaryContext_Command_1_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\28__ProvisioningCommands_PrimaryContext_Command_1_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\29__ProvisioningCommands_PrimaryContext_Command_1_DependencyPackages_0.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\30__ProvisioningCommands_PrimaryContext_Command_1_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\31__ProvisioningCommands_PrimaryContext_Command_2_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\32__ProvisioningCommands_PrimaryContext_Command_2_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\33__ProvisioningCommands_PrimaryContext_Command_2_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\34__ProvisioningCommands_PrimaryContext_Command_2_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\35__ProvisioningCommands_PrimaryContext_Command_3_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\36__ProvisioningCommands_PrimaryContext_Command_3_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\37__ProvisioningCommands_PrimaryContext_Command_3_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\38__ProvisioningCommands_PrimaryContext_Command_3_DependencyPackages_0.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\39__ProvisioningCommands_PrimaryContext_Command_3_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\40__ProvisioningCommands_PrimaryContext_Command_4_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\41__ProvisioningCommands_PrimaryContext_Command_4_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\42__ProvisioningCommands_PrimaryContext_Command_4_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\43__ProvisioningCommands_PrimaryContext_Command_4_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\44__ProvisioningCommands_PrimaryContext_Command_5_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\45__ProvisioningCommands_PrimaryContext_Command_5_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\46__ProvisioningCommands_PrimaryContext_Command_5_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\47__ProvisioningCommands_PrimaryContext_Command_5_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\48__ProvisioningCommands_PrimaryContext_Command_6_CommandFile.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\49__ProvisioningCommands_PrimaryContext_Command_6_CommandLine.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\50__ProvisioningCommands_PrimaryContext_Command_6_ContinueInstall.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\51__ProvisioningCommands_PrimaryContext_Command_6_DependencyPackages_0.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\RunTime\52__ProvisioningCommands_PrimaryContext_Command_6_RestartRequired.provxml
+12/24/2025 10:55:34 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-276_5144.10_1953507771.2\Prov\User_RunTime\53__Policies_Experience_AllowTailoredExperiencesWithDiagnosticData.provxml
+12/24/2025 10:55:36 AM Info Adding deployment settings to Provisioning Package
+12/24/2025 10:55:36 AM Info Adding file assets to Provisioning Package
+12/24/2025 10:55:36 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\softwareremoval.bat
+12/24/2025 10:55:36 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.bat
+12/24/2025 10:55:37 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\ZoomInstallerFull.msi
+12/24/2025 10:55:40 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.bat
+12/24/2025 10:55:40 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\techconnectkc-remotesupport.msi
+12/24/2025 10:55:41 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi
+12/24/2025 10:55:42 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\hpremoval.bat
+12/24/2025 10:55:42 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.cab
+12/24/2025 10:55:42 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.cab
+12/24/2025 10:55:44 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Remove-HPbloatware.ps1
+12/24/2025 10:55:49 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105545-224_5144.10_1084436010.cat, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\configProject\prod-config.cat
+12/24/2025 10:55:49 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-169_5144.10_843920274.1, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\configProject\prod-config.ppkg
+12/24/2025 10:55:50 AM Info DeleteFile: File '' does not exist
+12/24/2025 10:55:50 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-105534-169_5144.10_843920274.1' does not exist
+12/24/2025 10:55:50 AM Info Media Creation Build Success page
+12/24/2025 10:55:52 AM Info Build workflow finished.
+12/24/2025 10:59:14 AM Info Start Provisioning package Build for Project: configProject
+12/24/2025 10:59:30 AM Error Failed to write temporary file. (The process cannot access the file 'C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\configProject\prod-config.ppkg' because it is being used by another process.)
+12/24/2025 11:00:10 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-059_5144.4_1088712978.5'
+12/24/2025 11:00:10 AM Info Adding runtime settings to Provisioning Package
+12/24/2025 11:00:10 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\1__Accounts_Users_TCKC-Admin.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\2__Browser_FavoriteBarItems_aSupportPortal.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\3__Browser_FavoriteBarItems_bOutlookEmail.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\4__Browser_FavoriteBarItems_cOffice.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\5__Browser_FavoriteBarItems_dKansas Works.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\6__Browser_FavoriteBarItems_eDLX Home.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\7__DeviceFormFactor_DeviceForm.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\8__LanguagePackManagement_LanguagePackInstall_en-US.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\9__LanguagePackManagement_LanguagePackInstall_es-US.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\10__LanguagePackManagement_SystemPreferredUILanguage.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\11__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\12__Policies_Browser_ConfigureFavoritesBar.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\13__Policies_Update_AllowAutoUpdate.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\14__Policies_Experience_DoNotShowFeedbackNotifications.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\15__Policies_Power_StandbyTimeoutPluggedIn.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\16__Policies_Power_UnattendedSleepTimeoutPluggedIn.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\17__Policies_Privacy_DisableAdvertisingId.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\18__Policies_TimeLanguageSettings_ConfigureTimeZone.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\19__CleanPC.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\20__DevDetail_DNSComputerName.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\21__OOBE_Desktop_HideOobe.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\22__ProvisioningCommands_PrimaryContext_Command_0_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\23__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\24__ProvisioningCommands_PrimaryContext_Command_0_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\25__ProvisioningCommands_PrimaryContext_Command_0_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\26__ProvisioningCommands_PrimaryContext_Command_1_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\27__ProvisioningCommands_PrimaryContext_Command_1_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\28__ProvisioningCommands_PrimaryContext_Command_1_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\29__ProvisioningCommands_PrimaryContext_Command_1_DependencyPackages_0.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\30__ProvisioningCommands_PrimaryContext_Command_1_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\31__ProvisioningCommands_PrimaryContext_Command_2_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\32__ProvisioningCommands_PrimaryContext_Command_2_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\33__ProvisioningCommands_PrimaryContext_Command_2_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\34__ProvisioningCommands_PrimaryContext_Command_2_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\35__ProvisioningCommands_PrimaryContext_Command_3_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\36__ProvisioningCommands_PrimaryContext_Command_3_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\37__ProvisioningCommands_PrimaryContext_Command_3_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\38__ProvisioningCommands_PrimaryContext_Command_3_DependencyPackages_0.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\39__ProvisioningCommands_PrimaryContext_Command_3_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\40__ProvisioningCommands_PrimaryContext_Command_4_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\41__ProvisioningCommands_PrimaryContext_Command_4_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\42__ProvisioningCommands_PrimaryContext_Command_4_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\43__ProvisioningCommands_PrimaryContext_Command_4_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\44__ProvisioningCommands_PrimaryContext_Command_5_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\45__ProvisioningCommands_PrimaryContext_Command_5_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\46__ProvisioningCommands_PrimaryContext_Command_5_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\47__ProvisioningCommands_PrimaryContext_Command_5_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\48__ProvisioningCommands_PrimaryContext_Command_6_CommandFile.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\49__ProvisioningCommands_PrimaryContext_Command_6_CommandLine.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\50__ProvisioningCommands_PrimaryContext_Command_6_ContinueInstall.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\51__ProvisioningCommands_PrimaryContext_Command_6_DependencyPackages_0.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\RunTime\52__ProvisioningCommands_PrimaryContext_Command_6_RestartRequired.provxml
+12/24/2025 11:00:10 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-200_5144.4_852597505.6\Prov\User_RunTime\53__Policies_Experience_AllowTailoredExperiencesWithDiagnosticData.provxml
+12/24/2025 11:00:11 AM Info Adding deployment settings to Provisioning Package
+12/24/2025 11:00:11 AM Info Adding file assets to Provisioning Package
+12/24/2025 11:00:11 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\softwareremoval.bat
+12/24/2025 11:00:11 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.bat
+12/24/2025 11:00:11 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\ZoomInstallerFull.msi
+12/24/2025 11:00:16 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.bat
+12/24/2025 11:00:16 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\techconnectkc-remotesupport.msi
+12/24/2025 11:00:17 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi
+12/24/2025 11:00:19 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\hpremoval.bat
+12/24/2025 11:00:19 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.cab
+12/24/2025 11:00:19 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.cab
+12/24/2025 11:00:21 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Remove-HPbloatware.ps1
+12/24/2025 11:00:27 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110021-873_5144.4_424479185.cat, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\prod-config.cat
+12/24/2025 11:00:27 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-059_5144.4_1088712978.5, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\prod-config.ppkg
+12/24/2025 11:00:29 AM Info DeleteFile: File '' does not exist
+12/24/2025 11:00:29 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251224-110010-059_5144.4_1088712978.5' does not exist
+12/24/2025 11:00:29 AM Info Media Creation Build Success page
+12/24/2025 11:00:32 AM Info Build workflow finished.
+12/26/2025 8:40:17 AM Info Project 'configProject' created successfully and added to workspace
+12/26/2025 8:40:38 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:40:58 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:00 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:01 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:02 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:03 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:05 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:41:07 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#power
+12/26/2025 8:42:53 AM Info Start Provisioning package Build for Project: configProject
+12/26/2025 8:43:17 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-141_9608.8_1976257865.1'
+12/26/2025 8:43:17 AM Info Adding runtime settings to Provisioning Package
+12/26/2025 8:43:17 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\1__Accounts_Users_TCKC-Admin.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\2__Browser_FavoriteBarItems_aSupportPortal.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\3__Browser_FavoriteBarItems_bOutlookEmail.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\4__Browser_FavoriteBarItems_cOffice.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\5__Browser_FavoriteBarItems_dKansas Works.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\6__Browser_FavoriteBarItems_eDLX Home.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\7__DeviceFormFactor_DeviceForm.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\8__LanguagePackManagement_LanguagePackInstall_en-US.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\9__LanguagePackManagement_LanguagePackInstall_es-US.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\10__LanguagePackManagement_SystemPreferredUILanguage.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\11__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\12__Policies_Browser_ConfigureFavoritesBar.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\13__Policies_Update_AllowAutoUpdate.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\14__Policies_Experience_DoNotShowFeedbackNotifications.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\15__Policies_Power_StandbyTimeoutPluggedIn.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\16__Policies_Power_UnattendedSleepTimeoutPluggedIn.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\17__Policies_Privacy_DisableAdvertisingId.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\18__Policies_TimeLanguageSettings_ConfigureTimeZone.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\19__CleanPC.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\20__DevDetail_DNSComputerName.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\21__OOBE_Desktop_HideOobe.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\22__ProvisioningCommands_PrimaryContext_Command_0_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\23__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\24__ProvisioningCommands_PrimaryContext_Command_0_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\25__ProvisioningCommands_PrimaryContext_Command_0_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\26__ProvisioningCommands_PrimaryContext_Command_1_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\27__ProvisioningCommands_PrimaryContext_Command_1_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\28__ProvisioningCommands_PrimaryContext_Command_1_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\29__ProvisioningCommands_PrimaryContext_Command_1_DependencyPackages_0.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\30__ProvisioningCommands_PrimaryContext_Command_1_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\31__ProvisioningCommands_PrimaryContext_Command_2_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\32__ProvisioningCommands_PrimaryContext_Command_2_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\33__ProvisioningCommands_PrimaryContext_Command_2_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\34__ProvisioningCommands_PrimaryContext_Command_2_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\35__ProvisioningCommands_PrimaryContext_Command_3_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\36__ProvisioningCommands_PrimaryContext_Command_3_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\37__ProvisioningCommands_PrimaryContext_Command_3_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\38__ProvisioningCommands_PrimaryContext_Command_3_DependencyPackages_0.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\39__ProvisioningCommands_PrimaryContext_Command_3_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\40__ProvisioningCommands_PrimaryContext_Command_4_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\41__ProvisioningCommands_PrimaryContext_Command_4_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\42__ProvisioningCommands_PrimaryContext_Command_4_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\43__ProvisioningCommands_PrimaryContext_Command_4_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\44__ProvisioningCommands_PrimaryContext_Command_5_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\45__ProvisioningCommands_PrimaryContext_Command_5_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\46__ProvisioningCommands_PrimaryContext_Command_5_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\47__ProvisioningCommands_PrimaryContext_Command_5_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\48__ProvisioningCommands_PrimaryContext_Command_6_CommandFile.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\49__ProvisioningCommands_PrimaryContext_Command_6_CommandLine.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\50__ProvisioningCommands_PrimaryContext_Command_6_ContinueInstall.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\51__ProvisioningCommands_PrimaryContext_Command_6_DependencyPackages_0.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\RunTime\52__ProvisioningCommands_PrimaryContext_Command_6_RestartRequired.provxml
+12/26/2025 8:43:17 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-184_9608.8_929184401.2\Prov\User_RunTime\53__Policies_Experience_AllowTailoredExperiencesWithDiagnosticData.provxml
+12/26/2025 8:43:18 AM Info Adding deployment settings to Provisioning Package
+12/26/2025 8:43:18 AM Info Adding file assets to Provisioning Package
+12/26/2025 8:43:18 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\softwareremoval.bat
+12/26/2025 8:43:18 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.bat
+12/26/2025 8:43:18 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\ZoomInstallerFull.msi
+12/26/2025 8:43:19 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.bat
+12/26/2025 8:43:19 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\techconnectkc-remotesupport.msi
+12/26/2025 8:43:20 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi
+12/26/2025 8:43:20 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\hpremoval.bat
+12/26/2025 8:43:20 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.cab
+12/26/2025 8:43:20 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.cab
+12/26/2025 8:43:21 AM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Remove-HPbloatware.ps1
+12/26/2025 8:43:24 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084321-998_9608.8_123552453.cat, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.cat
+12/26/2025 8:43:24 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-141_9608.8_1976257865.1, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.ppkg
+12/26/2025 8:43:24 AM Info DeleteFile: File '' does not exist
+12/26/2025 8:43:24 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20251226-084317-141_9608.8_1976257865.1' does not exist
+12/26/2025 8:43:24 AM Info Media Creation Build Success page
+12/26/2025 8:43:26 AM Info Build workflow finished.
