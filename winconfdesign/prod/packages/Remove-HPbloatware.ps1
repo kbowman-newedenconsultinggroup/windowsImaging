@@ -38,6 +38,7 @@ $UninstallPackages = @(
     "AD2F1837.HPSystemInformation"
     "Microsoft.OutlookForWindows"
     "AdvancedMicroDevicesInc-2.AMDRadeonSoftware"
+    "RealtekSemiconductorCorp.HPAudioControl"
 )
 
 # List of programs to uninstall
@@ -58,6 +59,7 @@ $UninstallPrograms = @(
     "HP Wolf Security"
     "HP Wolf Security Application Support for Sure Sense"
     "HP Wolf Security Application Support for Windows"
+    "HP Audio Control"
 )
 
 $HPidentifier = "AD2F1837"

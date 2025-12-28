@@ -30,9 +30,9 @@ Microsoft.Office.Sway                          # Presentation and storytelling a
 Microsoft.OneConnect                           # Mobile Operator management app (Replaced by Mobile Plans)
 Microsoft.Print3D                              # 3D printing preparation software
 Microsoft.SkypeApp                             # Skype communication app (Universal Windows Platform version)
-Microsoft.Todos                                # To-do list and task management app
+#Microsoft.Todos                                # To-do list and task management app
 #Microsoft.WindowsAlarms                        # Alarms & Clock app
-Microsoft.WindowsFeedbackHub                   # App for providing feedback to Microsoft on Windows
+#Microsoft.WindowsFeedbackHub                   # App for providing feedback to Microsoft on Windows
 Microsoft.WindowsMaps                          # Mapping and navigation app
 #Microsoft.WindowsSoundRecorder                 # Basic audio recording app
 Microsoft.XboxApp                              # Old Xbox Console Companion App, no longer supported
@@ -152,4 +152,6 @@ AD2F1837.myHP                                 # HP OEM central hub app for devic
 
 #custom for DLX
 AdvancedMicroDevicesInc-2.AMDRadeonSoftware
+RealtekSemiconductorCorp.HPAudioControl
+Microsoft.OutlookForWindows
 
